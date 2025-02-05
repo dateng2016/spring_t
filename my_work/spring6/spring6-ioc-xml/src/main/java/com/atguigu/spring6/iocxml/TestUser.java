@@ -16,4 +16,4 @@ public class TestUser {
         User user3 = context.getBean("user",User.class);
         System.out.println("3. Getting Bean by ID -> " + user3);
     }
-}
+}  
