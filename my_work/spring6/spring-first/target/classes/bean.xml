@@ -12,5 +12,4 @@
     <bean id="user" class="com.atguigu.spring6.User"></bean>
 
 
-
 </beans>
